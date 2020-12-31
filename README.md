@@ -14,8 +14,8 @@ Visualisation
 - [ggplot2](https://github.com/ashten28/my_ggplots)
 
 Shiny app
-- [Ranchi](https://github.com/ashten28/ranchi)
-- [Covid19](https://github.com/ashten28/covid19)
+- [Ranchi](https://ashten-anthony.shinyapps.io/ranchi/) - [Code](https://github.com/ashten28/ranchi)
+- [Covid19](https://ashten-anthony.shinyapps.io/covid19) - [Code](https://github.com/ashten28/covid19)
 
 <!--
 **ashten28/ashten28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
