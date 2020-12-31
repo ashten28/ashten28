@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+#### About me
+
+Name: Ashten
+Location: Kuala Lumpur, Malaysia
+Occupation: General Insurance Actuarial Analyst 
+Education: Actuarial Science
+CV: 
+
+### Hobby work with R
+
+Visualisation
+- [tidytuesday](https://github.com/ashten28/tidytuesday)
+- [ggplot2](https://github.com/ashten28/my_ggplots)
+
+Shiny app
+- [Ranchi](https://github.com/ashten28/ranchi)
+- [Covid19](https://github.com/ashten28/covid19)
+
 <!--
 **ashten28/ashten28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
