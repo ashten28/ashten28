@@ -1,14 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ashten 👋
 
 #### About me
 
-Name: Ashten
 Location: Kuala Lumpur, Malaysia
 Occupation: General Insurance Actuarial Analyst 
 Education: Actuarial Science
-CV: 
+CV: https://github.com/ashten28/cv/blob/master/cv.pdf
 
-### Hobby work with R
+#### Hobby work with R
 
 Visualisation
 - [tidytuesday](https://github.com/ashten28/tidytuesday)
