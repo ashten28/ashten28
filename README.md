@@ -2,10 +2,10 @@
 
 #### About me
 
-Location: Kuala Lumpur, Malaysia
-Occupation: General Insurance Actuarial Analyst 
-Education: Actuarial Science
-CV: https://github.com/ashten28/cv/blob/master/cv.pdf
+- Location: Kuala Lumpur, Malaysia
+- Occupation: General Insurance Actuarial Analyst 
+- Education: Actuarial Science
+- CV: https://github.com/ashten28/cv/blob/master/cv.pdf
 
 #### Hobby work with R
 
