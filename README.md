@@ -9,7 +9,7 @@
 
 #### Hobby work with R
 
-Quick tips in R for actuarial work
+Actuarial Work
 - [Rtips](https://github.com/ashten28/Rtips)
 
 Visualisation
