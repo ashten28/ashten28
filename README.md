@@ -9,6 +9,9 @@
 
 #### Hobby work with R
 
+Quick tips in R for actuarial work
+- [Rtips](https://github.com/ashten28/Rtips)
+
 Visualisation
 - [tidytuesday](https://github.com/ashten28/tidytuesday)
 - [ggplot2](https://github.com/ashten28/my_ggplots)
