@@ -1,13 +1,13 @@
 ### Hi there, I'm Ashten 👋
 
-#### About me
+### About me
 
 - Location: Kuala Lumpur, Malaysia
 - Occupation: Non Life Actuary 
 - Education: Actuarial Science
 - CV: https://github.com/ashten28/cv/blob/master/cv.pdf
 
-#### Showcases
+### Showcases
 
 Actuarial Work
 - [Rtips](https://github.com/ashten28/Rtips)
